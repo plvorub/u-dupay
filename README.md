@@ -2,7 +2,7 @@
 
 DuPay虚拟信用卡，实际上是一种预付卡，支持USDT（TRC20）加密货币充值，内置英镑、欧元和美元电子账户，能够自由进行多种法定货币与USDT之间的交易和转账。它有效解决了加密货币出金时可能遇到的黑钱和冻卡问题，为用户提供了畅通无阻的电子货币支付体验。DuPay是由华人在英国创建的公司推出的产品，支持国内微信、支付宝、美团等消费场景。
 
-![image](https://github.com/user-attachments/assets/76437af5-50de-4cee-b36d-5e403f5db4a9)
+![01](https://github.com/user-attachments/assets/1cd76b5a-1dbb-4e00-ab6d-b32ba7547796)
 
 ## 注册和申请信用卡
 
